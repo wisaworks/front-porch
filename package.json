@@ -29,7 +29,8 @@
     "digital-garden",
     "markdown",
     "blog",
-    "quartz"
+    "quartz",
+    "front-porch"
   ],
   "bin": {
     "quartz": "./quartz/bootstrap-cli.mjs"
