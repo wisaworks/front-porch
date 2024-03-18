@@ -29,11 +29,9 @@ I cloned my forked repo into the "Publisher" folder.
 
 ### Step 4 Disclaimer -  I am not a lawyer, and the information provided is not legal advice. Please consult a qualified legal professional for legal advice specific to your situation.
 
-### Step 4 - Navigate to the LICENSE.txt file and add a line to the top of the file under "MIT"
+### Step 4 - Navigate to the LICENSE.txt file and add the following line to the top of the file:
 
-Copyright (c) [year] [your name]
-
-ex. Copyright (c) 2024 Jane Doe
+All Rights Reserved.
 
 ### Step 5 - Navigate to the quartz.config.ts file and update lines 17 to 59 accordingly
 
