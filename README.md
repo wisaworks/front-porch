@@ -71,7 +71,7 @@ Here are the frontmatter fields that are unique to Front Porch:
 | Frontmatter Field | Property Type | Description | 
 | ----------------- | ------------- | ----------- | 
 | growth-stage      | Text          | Specifies the growth stage of the piece (possible values - seedling, budding, evergreen, statue)(case-insensitive) |
-| contributions-enabled | Checkbox  | Specifies whether you are fine with people submitting contributions to this piece (ex. additional arguments) |
+| contributions-enabled | Checkbox  | Specifies whether you are fine with people submitting contributions to this piece (ex. additional arguments). You will need to enable "Issues" on your forked repository on GitHub. You can do this by going to Settings and scrolling down to the Features area. The "Issues" checkbox will be there. |
 | total-contributions | Number      | The total number of contributions that you have approved and merged into your piece. The contributions-enabled field must be turned on. |
 | contributors | List      | The contributors that have gotten one of their contributions for this piece approved. The contributions-enabled field must be turned on. |
 | contributor-links | List      | A list of links that direct readers to the website or github profile of each contributor. The order of the links should be consistent with the contributor list. The contributions-enabled field must be turned on. |
