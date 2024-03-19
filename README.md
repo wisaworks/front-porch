@@ -33,7 +33,7 @@ I cloned my forked repo into the "Publisher" folder.
 
 All Rights Reserved.
 
-### Step 5 - Navigate to the quartz.config.ts file and update lines 17 to 59 accordingly
+### Step 5 - Navigate to the quartz.config.ts file and update lines 18 to 60 accordingly
 
 ### Step 6 - Update the images in the static folder
 
