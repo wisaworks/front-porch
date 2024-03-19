@@ -33,7 +33,7 @@ export default ((opts?: Options) => {
         <hr />
         { !isFooterEnabled &&
           <div>
-            <p id="created-with">{i18n(cfg.locale).components.footer.createdWith}{" "} the <a target="_blank" href="https://www.digitalgardeningcollective.com">Digital Gardening Collective</a>'s <a target="_blank" href="https://github.com/DigitalGardeningCollective/front-porch">Front Porch (v{frontPorchVersion})</a> fork of <a target="_blank" href={"https://quartz.jzhao.xyz/"}>Quartz v{quartzVersion}</a>, © {year}</p>
+            <p id="created-with">{i18n(cfg.locale).components.footer.createdWith}{" "} the <a target="_blank" href="https://www.digitalgardeningcollective.com">Digital Gardening Collective</a>'s <a target="_blank" href="https://github.com/DigitalGardeningCollective/front-porch">Front Porch (v{frontPorchVersion})</a> fork of <a target="_blank" href={"https://quartz.jzhao.xyz/"}>Quartz v{quartzVersion}</a></p>
             <ul id="internal-links">
               {internalLinks.map(({ title, path }) => (
                 <li>

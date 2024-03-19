@@ -4,5 +4,5 @@ export function getInitials(name: string) {
 }
 
 export function getWhatIDoStr(whatIDoArray: string[]) {
-    return `${whatIDoArray.slice(0, whatIDoArray.length - 1).join(", ")}, and a ${ whatIDoArray[whatIDoArray.length - 1]}`
+    return `${whatIDoArray.slice(0, whatIDoArray.length - 1).join(", ")}, and ${ whatIDoArray[whatIDoArray.length - 1]}`
 }
