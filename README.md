@@ -8,7 +8,6 @@
 
 ### Step 1 - Fork the Front Porch Repo and use the following format for its name:
 
-
 [github-username].github.io
 
 For me, that was joshwingreene.github.io.
@@ -17,7 +16,9 @@ I recommend that you keep the "Copy the main branch only" option checked.
 
 ### Step 2 - Clone your fork to your machine
 
-`git clone https://github.com/DigitalGardeningCollective/front-porch.git`
+`git clone https://github.com/[github-username]/[github-username].github.io.git`
+
+ex. https://github.com/joshwingreene/joshwingreene.github.io.git
 
 I recommend that you place it in your Obsidian vault.
 
