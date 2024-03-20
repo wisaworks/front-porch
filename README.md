@@ -17,6 +17,8 @@ I recommend that you keep the "Copy the main branch only" option checked.
 
 ### Step 2 - Clone your fork to your machine
 
+`git clone https://github.com/DigitalGardeningCollective/front-porch.git`
+
 I recommend that you place it in your Obsidian vault.
 
 For reference, I have a folder called "My Digital Garden" and I have the following two sub-folders inside of it:
