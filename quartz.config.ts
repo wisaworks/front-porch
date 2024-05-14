@@ -15,41 +15,46 @@ const config: QuartzConfig = {
      */
     frontPorchVersion: "1.0.0",
     // ** Add your data here **
-    githubUsername: "DigitalGardeningCollective",
-    gitHubFrontPorchRepoName: "front-porch",
+    githubUsername: "wisaworks",
+    gitHubFrontPorchRepoName: "wisaworks.github.io",
     landingPageData: {
-      authorName: "Jane Doe",
-      authorImage: "default-author-image.jpeg",
+      authorName: "Wisa Works",
+      authorImage: "wisa-works.png",
       intro: {
-        title: "Welcome!",
+        title: "Howdy!",
         firstLeadUp: "I'm",
         secondLeadUp: "and I'm a",
-        whatIDo: ["Profession 1", "Hobbyist 1", "Digital Gardener"],
+        whatIDo: ["Registered Nurse", "Executive Assistant", "Digital Gardener"],
       },
       showcaseItems: [
         {
-          image: "default-landing-item-image.jpg",
-          title: "Example Showcase Item",
-          description: "This is an example showcase item",
-          pathnameOrUrl: "portfolio",
+          image: "nurse.jpg",
+          title: "Registered Nurse Experience",
+          description: "Saving lives one smile at a time",
+          pathnameOrUrl: "portfolio/RN",
+        },
+        {
+          image: "computer.png",
+          title: "Personal Assistant Experience",
+          description: "I have created organizational systems within Notion, Google Workspace, and Microsoft SharePoint",
+          pathnameOrUrl: "portfolio/assistant",
         },
         {
           image: "default-landing-item-image.jpg",
-          title: "External Showcase Item",
-          description: "This is an example showcase item with an external link",
+          title: "Digital Gardening Collective",
+          description: "A living directory of personal digital gardens and digital gardeners who are willing to trade their time to help others create their own.",
           pathnameOrUrl: "https://digitalgardeningcollective.com",
           hasExternalLink: true,
-        }
-      ],
+        },
     },
     gardenPageData: {
       title: "Welcome to my Digital Garden!",
       whatIWriteAbout: {
         leadUp: "I mainly publish notes and essays about",
-        topics: ["topic 1", "topic 2", "topic 3"],
+        topics: ["nursing", "Notion", "productivity"],
       },
       findMeOnCopy: "You can find me on these platforms:",
-      gardenAuthorImage: "default-author-image.jpeg",
+      gardenAuthorImage: "wisa-works.png",
       socialLinks: {
         twitter: "https://twitter.com/join_the_DGC",
         facebook: "https://facebook.com/digitalgardeningcollective",
