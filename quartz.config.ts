@@ -46,6 +46,7 @@ const config: QuartzConfig = {
           pathnameOrUrl: "https://digitalgardeningcollective.com",
           hasExternalLink: true,
         },
+      ],
     },
     gardenPageData: {
       title: "Welcome to my Digital Garden!",
